@@ -1,0 +1,5 @@
+people:
+  age: 18
+  name: erik
+
+content: "age = ${people.age}, name: ${people.age}"
