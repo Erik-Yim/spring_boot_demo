@@ -1,5 +1,7 @@
 package org.erik.spring.boot.demo.controller;
 
+import org.erik.spring.boot.demo.vo.People;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -27,9 +29,19 @@ public class HelloController {
     @Value("${people.content}")
     private String peopleContent;
 
+
+    @Autowired
+    private People people;
+
     @RequestMapping("/hello")
     public String hello() {
         return "hello "  + name + " " + age + " content " + content +
                 " people content = " + peopleContent;
+    }
+
+
+    @RequestMapping("/helloPeople")
+    public String helloPeople() {
+        return "hello people = " + people;
     }
 }
