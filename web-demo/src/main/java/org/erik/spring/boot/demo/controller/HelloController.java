@@ -31,6 +31,7 @@ public class HelloController {
 
 
     @Autowired
+    //这种方法比@Value要常用的多，推荐这种用法
     private People people;
 
     @RequestMapping("/hello")

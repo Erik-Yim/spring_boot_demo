@@ -1,0 +1,14 @@
+
+
+people:
+  age: 18
+  name: erik
+  content: "this is people content age = ${people.age}, name: ${people.age}"
+  #在一个配置中引用其他的配置属性需要写全记得要加前缀，这样就可以引用其他配置
+
+
+
+content: "age = ${people.age}, name: ${people.age}"
+
+server:
+  port: 8090
