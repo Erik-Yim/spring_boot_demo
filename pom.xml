@@ -10,7 +10,6 @@
 
     <modules>
         <module>web-demo</module>
-        <module>swagger-demo</module>
         <module>springboot-swagger</module>
     </modules>
 
