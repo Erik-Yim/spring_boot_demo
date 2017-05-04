@@ -1,4 +1,4 @@
-package cn.itcast.zt.domain;
+package org.erik.spring.boot.demo.domain;
 
 /**
  * Created by Administrator on 2017/4/9/009.

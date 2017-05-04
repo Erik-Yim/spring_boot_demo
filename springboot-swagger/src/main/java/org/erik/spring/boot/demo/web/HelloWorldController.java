@@ -1,4 +1,4 @@
-package cn.itcast.zt.web;
+package org.erik.spring.boot.demo.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

@@ -1,4 +1,4 @@
-package cn.itcast.zt;
+package org.erik.spring.boot.demo;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -23,7 +23,7 @@ public class Swagger2 {
         return new Docket(DocumentationType.SPRING_WEB.SWAGGER_2)
                 .apiInfo(apiInfo())
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("cn.itcast.zt"))
+                .apis(RequestHandlerSelectors.basePackage("org.erik.spring.boot.demo"))
                 .paths(PathSelectors.any())
                 .build() ;
     }

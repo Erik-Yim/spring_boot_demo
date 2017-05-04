@@ -1,4 +1,4 @@
-package cn.itcast.zt;
+package org.erik.spring.boot.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

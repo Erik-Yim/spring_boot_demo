@@ -1,6 +1,6 @@
-package cn.itcast.zt.web;
+package org.erik.spring.boot.demo.web;
 
-import cn.itcast.zt.domain.User;
+import org.erik.spring.boot.demo.domain.User;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;
