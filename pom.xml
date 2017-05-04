@@ -10,6 +10,8 @@
 
     <modules>
         <module>web-demo</module>
+        <module>swagger-demo</module>
+        <module>springboot-swagger</module>
     </modules>
 
     <!-- 使用最新的spring-boot版本 -->
