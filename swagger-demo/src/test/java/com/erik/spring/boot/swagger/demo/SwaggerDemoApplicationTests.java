@@ -1,4 +1,4 @@
-package com.erik.spring.boot;
+package com.erik.spring.boot.swagger.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
