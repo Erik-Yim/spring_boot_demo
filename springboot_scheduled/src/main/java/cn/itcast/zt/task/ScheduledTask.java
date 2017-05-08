@@ -18,4 +18,9 @@ public class ScheduledTask {
     public void reportCurrentTime() {
         System.out.println("当前时间是："+dateFormat.format(new Date()));
     }
+
+    @Scheduled(fixedDelay = 10000)
+    public void reportCurrentTime2() {
+        System.out.println("当前时间是2："+dateFormat.format(new Date()));
+    }
 }
