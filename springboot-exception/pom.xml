@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>springboot-exception</artifactId>
+    <packaging>jar</packaging>
 
     <name>springboot-exception</name>
     <description>同意异常处理</description>
