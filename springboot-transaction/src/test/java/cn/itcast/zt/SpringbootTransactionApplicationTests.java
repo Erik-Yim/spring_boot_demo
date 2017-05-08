@@ -8,6 +8,7 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.annotation.Commit;
+import org.springframework.test.annotation.Rollback;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -22,6 +23,7 @@ public class SpringbootTransactionApplicationTests {
     @Test
     @Transactional(rollbackFor = Exception.class, noRollbackFor = RuntimeException.class,value = "transactionManager")
     @Commit
+    //@Rollback //通常我们单元测试为了保证每个测试之间的数据独立，会使用@Rollback注解让每个单元测试都能在结束时回滚
     public void testTransaction() {
         // 创建10条记录
         userRepository.save(new User("AAA", 10));

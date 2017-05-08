@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>springboot-transaction</artifactId>
+    <packaging>jar</packaging>
 
     <name>springboot-transaction</name>
     <description>springboot使用事务保证数据的完整性</description>
