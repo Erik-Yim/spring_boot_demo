@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>springboot-async</artifactId>
+    <packaging>jar</packaging>
 
     <name>springboot-async</name>
     <description>springboot实现异步调用</description>

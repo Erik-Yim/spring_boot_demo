@@ -13,6 +13,7 @@
         <module>springboot-swagger</module>
         <module>springboot-exception</module>
         <module>springboot-transaction</module>
+        <module>springboot-async</module>
 
     </modules>
 

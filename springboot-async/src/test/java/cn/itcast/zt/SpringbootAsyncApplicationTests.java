@@ -27,6 +27,7 @@ public class SpringbootAsyncApplicationTests {
 		while (true) {
 			if(task1.isDone() && task2.isDone() && task3.isDone()) {
 				// 三个任务都调用完成，退出循环等待
+				System.out.println(task1.get() + " -->" + task2.get() + " -->" + task3.get());
 				break;
 			}
 			Thread.sleep(1000);

@@ -15,7 +15,7 @@ public class Task {
 
     public static Random random = new Random() ;
 
-    @Async
+    @Async //看源码了解一下这个原理，应该是spring有一个任务队列用多线程去跑
     public Future<String> doTaskOne() throws  Exception {
         System.out.println("开始做任务一");
         long start = System.currentTimeMillis() ;
