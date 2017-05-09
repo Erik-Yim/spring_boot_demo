@@ -10,9 +10,9 @@ import org.springframework.data.jpa.repository.JpaRepository;
  */
 @CacheConfig(cacheNames = "users")
 public interface UserRepository extends JpaRepository<User, Long> {
-    @Cacheable(key = "#p0")
+    @Cacheable(key = "#p0") //#p0表示第一个参数其实就是name
     User findByName(String name) ;
 
-    @CachePut(key = "#p0.name")
+    @CachePut(key = "#p0.name")//也可以写成#user.name
     User save(User user);
 }

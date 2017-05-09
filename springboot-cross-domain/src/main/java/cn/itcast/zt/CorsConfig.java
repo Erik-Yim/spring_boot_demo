@@ -7,7 +7,7 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 import org.springframework.web.filter.CorsFilter;
 
 /**
- * springboot跨域
+ * springboot跨域  CORS+JWT CORS处理跨域请求，JWT传输token来处理用户认证和替代cookie
  * Created by zhangtian on 2017/4/18.
  */
 @Configuration

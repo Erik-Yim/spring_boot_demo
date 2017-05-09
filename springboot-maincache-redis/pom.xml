@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>springboot-maincache-redis</artifactId>
+    <packaging>jar</packaging>
 
     <name>springboot-maincache-redis</name>
     <description>springboot使用redis做集中式缓存</description>
