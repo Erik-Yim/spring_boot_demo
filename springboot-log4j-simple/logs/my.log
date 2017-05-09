@@ -8,3 +8,45 @@
 2017-04-12 16:40:16,855  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 2.758 seconds (JVM running for 4.148)
 2017-04-12 16:40:16,911  INFO SpringbootLog4jSimpleApplicationTests:16 ---- è¾“å‡ºinfo
 2017-04-12 16:40:16,912 ERROR SpringbootLog4jSimpleApplicationTests:18 ---- è¾“å‡ºerror
+2017-05-08 16:47:56,007  INFO SpringbootLog4jSimpleApplicationTests:48 ---- Starting SpringbootLog4jSimpleApplicationTests on Erik with PID 15892 (started by Erik_Yim in F:\IdeaProjects\spring_cloud_demo\spring_boot_demo\springboot-log4j-simple)
+2017-05-08 16:47:56,038  INFO SpringbootLog4jSimpleApplicationTests:641 ---- The following profiles are active: dev
+2017-05-08 16:47:56,995  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 1.743 seconds (JVM running for 3.041)
+2017-05-08 16:47:57,120  INFO SpringbootLog4jSimpleApplicationTests:16 ---- Êä³öinfo
+2017-05-08 16:47:57,120 ERROR SpringbootLog4jSimpleApplicationTests:18 ---- Êä³öerror
+2017-05-08 16:55:05,817  INFO SpringbootLog4jSimpleApplicationTests:48 ---- Starting SpringbootLog4jSimpleApplicationTests on Erik with PID 27256 (started by Erik_Yim in F:\IdeaProjects\spring_cloud_demo\spring_boot_demo\springboot-log4j-simple)
+2017-05-08 16:55:05,821  INFO SpringbootLog4jSimpleApplicationTests:641 ---- The following profiles are active: dev
+2017-05-08 16:55:07,868  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 3.945 seconds (JVM running for 5.807)
+2017-05-08 16:55:07,931  INFO LogOnClassDemo:18 ---- this is log on class demo
+2017-05-08 17:00:06,589  INFO SpringbootLog4jSimpleApplicationTests:48 ---- Starting SpringbootLog4jSimpleApplicationTests on Erik with PID 27140 (started by Erik_Yim in F:\IdeaProjects\spring_cloud_demo\spring_boot_demo\springboot-log4j-simple)
+2017-05-08 17:00:06,590  INFO SpringbootLog4jSimpleApplicationTests:641 ---- The following profiles are active: dev
+2017-05-08 17:00:08,697  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 3.262 seconds (JVM running for 5.24)
+2017-05-08 17:00:08,759  INFO LogOnClassDemo:18 ---- this is log on class demo
+2017-05-08 17:04:09,785  INFO SpringbootLog4jSimpleApplicationTests:48 ---- Starting SpringbootLog4jSimpleApplicationTests on Erik with PID 26912 (started by Erik_Yim in F:\IdeaProjects\spring_cloud_demo\spring_boot_demo\springboot-log4j-simple)
+2017-05-08 17:04:09,788  INFO SpringbootLog4jSimpleApplicationTests:641 ---- The following profiles are active: dev
+2017-05-08 17:04:12,162  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 3.456 seconds (JVM running for 5.052)
+2017-05-08 17:04:12,224  INFO LogOnClassDemo:18 ---- this is log on class demo
+2017-05-08 17:05:06,027  INFO SpringbootLog4jSimpleApplicationTests:48 ---- Starting SpringbootLog4jSimpleApplicationTests on Erik with PID 18204 (started by Erik_Yim in F:\IdeaProjects\spring_cloud_demo\spring_boot_demo\springboot-log4j-simple)
+2017-05-08 17:05:06,151  INFO SpringbootLog4jSimpleApplicationTests:641 ---- The following profiles are active: dev
+2017-05-08 17:05:09,479  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 4.822 seconds (JVM running for 7.483)
+2017-05-08 17:05:09,596  INFO LogOnClassDemo:18 ---- this is log on class demo
+2017-05-08 17:07:16,794  INFO SpringbootLog4jSimpleApplicationTests:48 ---- Starting SpringbootLog4jSimpleApplicationTests on Erik with PID 604 (started by Erik_Yim in F:\IdeaProjects\spring_cloud_demo\spring_boot_demo\springboot-log4j-simple)
+2017-05-08 17:07:16,794  INFO SpringbootLog4jSimpleApplicationTests:641 ---- The following profiles are active: dev
+2017-05-08 17:07:18,523  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 2.95 seconds (JVM running for 4.619)
+2017-05-08 17:07:18,585  INFO LogOnClassDemo:18 ---- this is log on class demo
+2017-05-08 17:07:59,138  INFO SpringbootLog4jSimpleApplicationTests:48 ---- Starting SpringbootLog4jSimpleApplicationTests on Erik with PID 26632 (started by Erik_Yim in F:\IdeaProjects\spring_cloud_demo\spring_boot_demo\springboot-log4j-simple)
+2017-05-08 17:07:59,138  INFO SpringbootLog4jSimpleApplicationTests:641 ---- The following profiles are active: dev
+2017-05-08 17:08:02,051  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 3.613 seconds (JVM running for 5.173)
+2017-05-08 17:08:02,127  INFO LogOnClassDemo:18 ---- this is log on class demo
+2017-05-08 17:23:19,513  INFO SpringbootLog4jSimpleApplicationTests:48 ---- Starting SpringbootLog4jSimpleApplicationTests on Erik with PID 28664 (started by Erik_Yim in F:\IdeaProjects\spring_cloud_demo\spring_boot_demo\springboot-log4j-simple)
+2017-05-08 17:23:19,528  INFO SpringbootLog4jSimpleApplicationTests:641 ---- The following profiles are active: dev
+2017-05-08 17:23:21,919  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 3.591 seconds (JVM running for 5.709)
+2017-05-08 17:24:36,735  INFO SpringbootLog4jSimpleApplicationTests:48 ---- Starting SpringbootLog4jSimpleApplicationTests on Erik with PID 27200 (started by Erik_Yim in F:\IdeaProjects\spring_cloud_demo\spring_boot_demo\springboot-log4j-simple)
+2017-05-08 17:24:36,737  INFO SpringbootLog4jSimpleApplicationTests:641 ---- The following profiles are active: dev
+2017-05-08 17:24:39,783  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 4.053 seconds (JVM running for 5.977)
+2017-05-08 17:25:39,411  INFO SpringbootLog4jSimpleApplicationTests:48 ---- Starting SpringbootLog4jSimpleApplicationTests on Erik with PID 25928 (started by Erik_Yim in F:\IdeaProjects\spring_cloud_demo\spring_boot_demo\springboot-log4j-simple)
+2017-05-08 17:25:39,412  INFO SpringbootLog4jSimpleApplicationTests:641 ---- The following profiles are active: dev
+2017-05-08 17:25:41,804  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 3.517 seconds (JVM running for 5.583)
+2017-05-08 17:31:05,206  INFO SpringbootLog4jSimpleApplicationTests:48 ---- Starting SpringbootLog4jSimpleApplicationTests on Erik with PID 29052 (started by Erik_Yim in F:\IdeaProjects\spring_cloud_demo\spring_boot_demo\springboot-log4j-simple)
+2017-05-08 17:31:05,211  INFO SpringbootLog4jSimpleApplicationTests:641 ---- The following profiles are active: dev
+2017-05-08 17:31:07,461  INFO SpringbootLog4jSimpleApplicationTests:57 ---- Started SpringbootLog4jSimpleApplicationTests in 3.559 seconds (JVM running for 5.491)
+2017-05-08 17:31:07,507  INFO LogOnClassDemo:20 ---- this is logOnFile log demo

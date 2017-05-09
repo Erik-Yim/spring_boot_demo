@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>springboot-log4j-simple</artifactId>
+    <packaging>jar</packaging>
 
     <name>springboot-log4j-simple</name>
     <description>Springboot使用log4j记录日志</description>

@@ -2,3 +2,8 @@
 2017-04-12 16:34:09,877 ERROR SpringbootLog4jSimpleApplicationTests:18 - 输出error
 2017-04-12 16:39:59,856 ERROR SpringbootLog4jSimpleApplicationTests:18 - 输出error
 2017-04-12 16:40:16,912 ERROR SpringbootLog4jSimpleApplicationTests:18 - 输出error
+2017-05-08 16:47:57,120 ERROR SpringbootLog4jSimpleApplicationTests:18 - ���error
+2017-05-08 17:23:22,029 ERROR itcastfile:19 - this is itcastFile log demo
+2017-05-08 17:23:22,030 ERROR logOnFile:20 - this is logOnFile log demo
+2017-05-08 17:24:39,846 ERROR itcastfile:19 - this is itcastFile log demo
+2017-05-08 17:24:39,846 ERROR logOnFile:20 - this is logOnFile log demo
