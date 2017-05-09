@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>springboot-security</artifactId>
+    <packaging>jar</packaging>
 
     <name>springboot-security</name>
     <description>Springboot安全控制security</description>
