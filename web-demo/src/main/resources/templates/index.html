@@ -1,1 +1,24 @@
 <h1>hello template</h1>
+
+<!--
+
+Spring Boot能大大简化WEB应用开发的原因， 最重要的就是遵循“约定优于配置”这一基本原则。Spring Boot的关于静态资源的默认配置已经完全满足绝大部分WEB应用的需求。没必要去弄手续繁杂的自定义，用Spring Boot的约定就好了。
+
+在Maven 工程目录下，所有静态资源都放在src/main/resource目录下，结构如下：
+
+src/main/resource
+          |__________static
+                        |_________js
+                        |_________images
+                        |_________css
+                 .....
+
+例如，imges目录下的demo.jpg 在HTML/JSP中访问是的路径就是<img src="/images/demo.jpg">, 因为Spring Boot的缺省工作目录就是src/main/java, 当访问资源时，就是src/main/resources, 而/static/**被SPRING BOOT被映射到了classpath:/static下。所以也可以不带起始的“/”，直接写成<img src="images/demo.jpg">。
+
+
+
+以下代码示例为Hello World 加了个图片显示, 这里的demo.jpg在maven工程的位置存放就是src/main/resource/static/images/demo.jpg，
+
+可用<img src="image/demo.jpg">访问
+-->
+<script type="text/javascript" src="js/jquery-3.2.1.js"/>
