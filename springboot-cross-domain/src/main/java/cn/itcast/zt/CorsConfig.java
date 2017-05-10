@@ -10,6 +10,7 @@ import org.springframework.web.filter.CorsFilter;
 /**
  * springboot跨域  CORS+JWT CORS处理跨域请求，
  * JWT传输token来处理用户认证和替代cookie,使用JWT来保证API的安全
+ * Spring 可以支持局部cors就是注解到具体的某个方法上@CrossOrigin
  * Created by zhangtian on 2017/4/18.
  */
 @Configuration
@@ -23,6 +24,8 @@ public class CorsConfig {
         corsConfiguration.addAllowedHeader("*");
         corsConfiguration.addAllowedMethod(HttpMethod.GET); // 3
         corsConfiguration.addAllowedMethod(HttpMethod.OPTIONS); // 添加可以访问的方法
+
+        corsConfiguration.setAllowCredentials(true);
         return corsConfiguration;
     }
 
